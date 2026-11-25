@@ -25,7 +25,10 @@ function gate(error) {
   const html = `<!doctype html>
 <html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow"><title>Entrega privada da marca · EV</title>
-<link rel="icon" type="image/webp" href="/brand/ev-mark.webp">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <style>
 @font-face{font-family:SG;font-weight:400;src:url(/fonts/space-grotesk-400.woff2) format("woff2")}
 @font-face{font-family:SG;font-weight:600;src:url(/fonts/space-grotesk-600.woff2) format("woff2")}
@@ -64,7 +67,7 @@ ${error ? '<p class="e" id="err" role="alert">Código incorreto. Confira e tente
   })
 }
 
-const PUBLIC = /^\/(fonts\/|brand\/ev-mark\.webp$)/ // só o necessário para desenhar a tela de acesso
+const PUBLIC = /^\/(fonts\/|brand\/ev-mark\.webp$|favicon\.ico$|favicon-(32|512)\.png$|apple-touch-icon\.png$)/ // só o necessário para desenhar a tela de acesso
 
 export async function onRequest(context) {
   const { request, env, next } = context
