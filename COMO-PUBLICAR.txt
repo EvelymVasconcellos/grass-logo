@@ -1,0 +1,25 @@
+GRASS · Entrega da Identidade Visual — como publicar no Cloudflare Pages
+========================================================================
+
+Esta pasta já está pronta. Nada precisa ser compilado.
+
+  public/      o site (páginas, imagens e arquivos para download)
+  functions/   o código de acesso (GRASS2026). Sem esta pasta o site fica aberto.
+
+IMPORTANTE: o envio "arrastar e soltar" do painel do Cloudflare NÃO publica a pasta functions/,
+então o site ficaria sem código de acesso. Publique pelo terminal (precisa do Node.js instalado):
+
+  1. Abra o terminal dentro desta pasta (a que contém public/ e functions/).
+  2. Rode:  npx wrangler login
+     (abre o navegador para entrar na sua conta Cloudflare)
+  3. Rode:  npx wrangler pages deploy public --project-name grass-entrega
+     Na primeira vez ele cria o projeto; confirme com Enter se perguntar o branch de produção.
+  4. O endereço aparece no final, por exemplo https://grass-entrega.pages.dev
+
+Opcional, no painel: Workers & Pages → grass-entrega → Settings → Variables and Secrets
+  ACCESS_CODE     outro código de acesso (padrão: GRASS2026)
+  SESSION_SECRET  um texto aleatório qualquer
+Depois de mudar as variáveis, rode o passo 3 de novo.
+
+O pacote completo (GRASS_Brand_Delivery.zip, 54 MB) é montado no navegador na hora do download,
+porque o Cloudflare Pages aceita no máximo 25 MB por arquivo.

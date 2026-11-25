@@ -1,0 +1,34 @@
+GRASS Soluções Financeiras e Seguros — Entrega da Identidade Visual
+Preparado por EV | Design, Technology & Digital Solutions
+
+COMO ESTE PACOTE ESTÁ ORGANIZADO
+
+01 Logo Principal   Logo completo da GRASS (escudo, folhas e nome), PNG com fundo transparente.
+02 Simbolo          Escudo com as folhas, sem o nome, PNG com fundo transparente.
+03 Cartao de Visita Cartão frente e verso em PDF:
+                    - GRASS_Cartao_Frente_Verso.pdf: formato final, 90 × 50 mm.
+                    - GRASS_Cartao_Frente_Verso_Sangria_3mm.pdf: para a gráfica, com 3 mm de sangria (96 × 56 mm).
+04 Mockups          Simulações da marca em uso (recepção, cartões, papel timbrado e pasta, envelope, site,
+                    sacola e crachá, proposta de cotação e apólice, folder, boné, camisetas, moletom,
+                    mochila saco e totem) e os dois painéis com todas as aplicações.
+                    São ilustrações, não arquivos de produção.
+05 Instagram       Foto de perfil, 24 posts quadrados para o feed (institucionais, seguro de vida,
+                    seguro residencial, seguro auto e seguro empresarial) e 1 story vertical 9:16.
+06 Documentacao     Este guia e o inventário de arquivos.
+
+QUAL ARQUIVO USAR
+
+- PNG: redes sociais, apresentações, sites e materiais digitais. O fundo transparente permite usar o logo sobre fundos diferentes.
+- PDF do cartão: envie à gráfica a versão com sangria de 3 mm.
+- JPG dos mockups: para visualizar e compartilhar a marca em uso.
+- PNG dos posts: publique direto no feed do Instagram (formato quadrado).
+
+NÃO INCLUÍDO NESTE PACOTE
+
+Arquivos vetoriais (SVG, AI, EPS ou PDF vetorial) do logo e arquivos de produção das peças mostradas nos mockups.
+
+CUIDADOS
+
+- Os arquivos do logo são imagens PNG em alta resolução, não vetores editáveis. Peça a arte vetorial e uma prova de impressão quando precisar.
+- O QR code do verso do cartão abre https://grassseguros.com.br/links. Teste a leitura na prova da gráfica antes de imprimir a tiragem.
+- Guarde uma cópia deste pacote em local seguro (computador ou nuvem) e não altere os arquivos originais do logo.

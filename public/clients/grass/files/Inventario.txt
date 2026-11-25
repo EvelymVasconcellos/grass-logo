@@ -1,0 +1,51 @@
+Inventário de arquivos — GRASS_Brand_Delivery
+
+01 Logo Principal/GRASS_Logo_Principal.png · 0,8 MB · 1590 × 719 px
+02 Simbolo/GRASS_Simbolo.png · 0,6 MB · 1071 × 1071 px
+03 Cartao de Visita/GRASS_Cartao_Frente_Verso.pdf · 1,0 MB
+03 Cartao de Visita/GRASS_Cartao_Frente_Verso_Sangria_3mm.pdf · 1,1 MB
+04 Mockups/GRASS_Mockup_Bone.jpg · 1,5 MB · 3000 × 3000 px
+04 Mockups/GRASS_Mockup_Camiseta.jpg · 1,1 MB · 3000 × 3000 px
+04 Mockups/GRASS_Mockup_Camiseta_Modelo.jpg · 1,1 MB · 3000 × 3000 px
+04 Mockups/GRASS_Mockup_Cartao_na_Mao.jpg · 0,8 MB · 3000 × 3000 px
+04 Mockups/GRASS_Mockup_Cartoes.jpg · 87 KB · 584 × 451 px
+04 Mockups/GRASS_Mockup_Envelope.jpg · 38 KB · 584 × 231 px
+04 Mockups/GRASS_Mockup_Folder.jpg · 100 KB · 733 × 487 px
+04 Mockups/GRASS_Mockup_Mochila_Saco.jpg · 1,1 MB · 3000 × 3000 px
+04 Mockups/GRASS_Mockup_Moletom.jpg · 0,9 MB · 3000 × 3000 px
+04 Mockups/GRASS_Mockup_Papel_Timbrado_e_Pasta.jpg · 0,1 MB · 859 × 634 px
+04 Mockups/GRASS_Mockup_Proposta_e_Apolice.jpg · 0,1 MB · 796 × 487 px
+04 Mockups/GRASS_Mockup_Recepcao.jpg · 0,1 MB · 859 × 452 px
+04 Mockups/GRASS_Mockup_Sacola_e_Cracha.jpg · 0,2 MB · 1536 × 530 px
+04 Mockups/GRASS_Mockup_Site.jpg · 68 KB · 584 × 398 px
+04 Mockups/GRASS_Mockup_Totem.jpg · 0,5 MB · 1536 × 1024 px
+04 Mockups/GRASS_Painel_de_Aplicacoes_1.png · 2,2 MB · 1447 × 1087 px
+04 Mockups/GRASS_Painel_de_Aplicacoes_2.png · 2,1 MB · 1536 × 1024 px
+05 Instagram/GRASS_Instagram_Foto_de_Perfil.png · 1,8 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_01_Protecao_Completa.png · 1,7 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_02_Nossas_Solucoes.png · 1,7 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_03_Solicite_sua_Cotacao.png · 1,7 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_04_Seguro_Residencial.png · 2,0 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_05_Seguro_de_Vida_1.png · 1,3 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_06_Seguro_de_Vida_2.png · 1,2 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_07_Seguro_de_Vida_3.png · 1,2 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_08_Seguro_Residencial_1.png · 1,1 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_09_Seguro_Residencial_2.png · 1,1 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_10_Seguro_Residencial_3.png · 1,1 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_11_Seguro_Auto_1.png · 1,1 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_12_Seguro_Auto_2.png · 1,1 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_13_Seguro_Auto_3.png · 1,1 MB · 1080 × 1080 px
+05 Instagram/GRASS_Post_14_Seguro_Auto_Casal.png · 1,9 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_15_Protecao_Completa_Auto_Casa_Vida.png · 1,7 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_16_Mais_que_Seguros.png · 2,0 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_17_Protecao_para_o_Dia_a_Dia.png · 1,7 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_18_Nossos_Principais_Seguros.png · 1,2 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_19_Atendimento_Humano.png · 1,9 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_20_Seguro_Auto.png · 1,8 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_21_Seguro_Residencial.png · 1,7 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_22_Por_que_Ter_um_Seguro.png · 1,2 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_23_Seguro_Empresarial.png · 1,7 MB · 1254 × 1254 px
+05 Instagram/GRASS_Post_24_Fale_Conosco.png · 1,3 MB · 1254 × 1254 px
+05 Instagram/GRASS_Story_01_Site_de_Cara_Nova.png · 1,6 MB · 941 × 1672 px
+06 Documentacao/LEIA-ME.txt · 2 KB
+06 Documentacao/Inventario.txt · este arquivo
