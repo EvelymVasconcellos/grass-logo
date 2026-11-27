@@ -2,7 +2,7 @@ Inventário de arquivos — GRASS_Brand_Delivery
 
 01 Logo Principal/GRASS_Logo_Principal.png · 0,8 MB · 1590 × 719 px
 02 Simbolo/GRASS_Simbolo.png · 0,6 MB · 1071 × 1071 px
-03 Cartao de Visita/GRASS_Cartao_Frente_Verso.pdf · 1,0 MB
+03 Cartao de Visita/GRASS_Cartao_Frente_Verso.pdf · 1,1 MB
 03 Cartao de Visita/GRASS_Cartao_Frente_Verso_Sangria_3mm.pdf · 1,1 MB
 04 Mockups/GRASS_Mockup_Bone.jpg · 1,5 MB · 3000 × 3000 px
 04 Mockups/GRASS_Mockup_Camiseta.jpg · 1,1 MB · 3000 × 3000 px
